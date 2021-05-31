@@ -1,0 +1,10 @@
+asam laksa	13.90	100	4.5
+curry noodle	12.60	100	5.0
+nasi lemak	12.90	150	2.0
+nasi dagang	14.50	70	2.0
+chicken rice	15.30	90	2.5
+prawn noodle	16.20	60	4.5
+tomyam noodle	12.30	110	4.5
+tuna toast	8.30	50	3.5
+egg toast	6.90	50	3.5
+curry puff	6.80	50	2.0	
